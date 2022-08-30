@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilaPoo.Consola", "PilaPoo.Consola\PilaPoo.Consola.csproj", "{766CC612-BC43-4D7F-899B-4536738778B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilaPoo.Entidades", "PilaPoo.Entidades\PilaPoo.Entidades.csproj", "{727F9186-7F56-4C57-83E2-046E8B31087C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766CC612-BC43-4D7F-899B-4536738778B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766CC612-BC43-4D7F-899B-4536738778B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766CC612-BC43-4D7F-899B-4536738778B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766CC612-BC43-4D7F-899B-4536738778B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727F9186-7F56-4C57-83E2-046E8B31087C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727F9186-7F56-4C57-83E2-046E8B31087C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727F9186-7F56-4C57-83E2-046E8B31087C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727F9186-7F56-4C57-83E2-046E8B31087C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6563F35B-F012-4AED-A137-C7FB4154D5A1}
+	EndGlobalSection
+EndGlobal
